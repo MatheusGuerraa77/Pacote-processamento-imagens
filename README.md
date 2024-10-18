@@ -33,7 +33,7 @@ file1_name.my_function()
 link: https://pypi.org/project/image-processing-MT/
 
 ## Author
-Matheus
+Matheus Guerra
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
